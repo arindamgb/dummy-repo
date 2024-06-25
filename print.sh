@@ -1,2 +1,2 @@
 #! /bin/bash
-echo 'Hello to the world again'
+echo 'Hello to the NEW world again'
